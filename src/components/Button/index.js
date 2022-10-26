@@ -1,5 +1,5 @@
 import React from "react";
-import * as C from "./styles";
+import * as C from "./style";
 
 const Button = ({ Text, onClick, Type = "button" }) => {
   return (

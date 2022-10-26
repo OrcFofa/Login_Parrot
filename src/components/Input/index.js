@@ -1,5 +1,5 @@
 import React from "react";
-import * as C from "./styles";
+import * as C from "./style";
 
 const Input = ({ type, placeholder, value, onChange }) => {
   return (

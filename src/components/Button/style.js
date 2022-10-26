@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 export const Button = styled.button`
-  padding: 16px 20px;
+  padding: 1vh;
   outline: none;
   border: none;
-  border-radius: 5px;
-  width: 100%;
+  border-radius: 15px;
+  width: 95%;
   cursor: pointer;
-  background-color: #046ee5;
-  color: white;
+  background: #76BB4C;
+  color: black;
   font-weight: 600;
   font-size: 16px;
   max-width: 350px;

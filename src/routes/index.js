@@ -5,9 +5,11 @@ import Cadastro from "../pages/Cadastro/index"
 import Login from "../pages/Login/index"
 import Home from "../pages/Home/index"
 
+import useAuth from "../hooks/useAuth";
+
 //Criando a verificação sobre estar logado ou não
 const Private = ({ Item }) => {
-  const logado = false;
+  const { logado } = useAuth;
 
   return logado > 0 ? <Item /> : <Login/>
 }
