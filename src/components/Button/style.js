@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const Button = styled.button`
-  padding: 1vh;
+  padding: 2vh;
   outline: none;
   border: none;
   border-radius: 15px;
-  width: 95%;
+  width: 90%;
   cursor: pointer;
   background: #76BB4C;
   color: black;

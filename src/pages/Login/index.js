@@ -32,9 +32,10 @@ const Signin = () => {
   };
 
   return (
-    <C.Container style={{backgroundImage:`10px url(${fundo})` }}>
+    <C.Container style={{backgroundImage:`url(${fundo})` }}>
+      
       <C.Content>
-      <img src={img} />
+      <img src={img} alt="Pássaro roxo com a palavra Parrot logo abaixo" />
       <C.Label>LOGIN</C.Label>
         <Input
           type="email"

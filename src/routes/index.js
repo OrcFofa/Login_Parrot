@@ -24,7 +24,6 @@ const RoutesApp = () => {
                 <Route exact path="/cadastro" element={< Cadastro />} />
                 <Route exact path="/login" element={< Login />} />
                 <Route path="/" element={< Login />} />
-                <Route path="*" element={< Login />} />
             </Routes>
           </Fragment>
         </BrowserRouter>
