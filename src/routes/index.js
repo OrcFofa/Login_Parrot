@@ -11,7 +11,7 @@ import useAuth from "../hooks/useAuth";
 const Private = ({ Item }) => {
   const { logado } = useAuth;
 
-  return logado > 0 ? <Item /> : <Login/>
+  return logado > 0 ? <Item /> : <Home/>
 }
 
 //Criando as rotas
