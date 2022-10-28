@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<a id='ancora'></a>
+# Projeto Parrot Login/Cadastro - Gama Academy - XP 44 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br><br>
 
-## Available Scripts
+- [Sobre a Gama Academy](#ancora1) <br>
+- [Sobre o Gama Experience](#ancora2) <br>
+- [Sobre o Projeto](#ancora3) <br>
+- [Competências Desenvolvidas](#ancora4) <br>
+- [Entregável](#ancora5) <br>
+- [Execução](#ancora7) <br>
 
-In the project directory, you can run:
+<br><br>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a id="ancora1"></a>
+## Sobre a Gama Academy 🏫
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+Empresa de educação que prepara talentos para o mercado digital. Em seus programas educacionais, as pessoas participantes enfrentam desafios reais, se conectam com empresas digitais, recebem mentorias de profissionais que estão mandando bem em suas áreas e, ainda têm a oportunidade de ensinar e aprender com a nossa comunidade visando o emprego, transição de carreira e o life long learning.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+<a id="ancora2"></a>
+## Sobre o Gama Experience 👨🏽‍💻
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+É um curso com duração de 6 meses, com o objetivo de formar os melhores juniores do mercado, nas áreas de Desenvolvimento Web e Designers UX/UI! A primeira versão do curso foi lançada pela Gama Academy em 2016 e já empregou mais de 3.000 pessoas.  A versão atual contém mais de 810 horas de aulas, desafios e mentorias, com foco na  empregabilidade de nossos estudantes!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+<a id="ancora3"></a>
+## Sobre o Projeto ✔️
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A rede social Parrot é um sistema white label (ou seja, um sistema modelo criado por uma empresa que pode ser reutilizado por outras, apenas modificando informações como logo e marca) do qual condomínios podem contratar para incentivar a interação entre os moradores. A plataforma permite que os usuários façam publicações que ficam visíveis para toda comunidade.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<a id="ancora4"></a>
+## Competências Desenvolvidas 📝
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* React;
+* Boostrap;
+* TypeScript;
+* NodeJS;
+* MySQL;
+* Arquitetura Limpa;
+* Testes Automatizados;
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+<a id="ancora5"></a>
+## Entregável 📋
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br>
 
-### Analyzing the Bundle Size
+1. Login. ✔️
+<br><br>
+2. Cadastro do Usuário. ✔️
+<br><br>
+3. Feed (criar post, listas todos os posts). ❌
+<br><br>
+4. Página do usuario (posts do usuário). ❌
+<br><br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br>
 
-### Making a Progressive Web App
+<a id="ancora7"></a>
+## Execução 💻
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
+1. Clone este repositório remoto em seu equipamento:
+```
+git clone https://github.com/OrcFofa/Login_Parrot.git
+```
+2. Execute o comando para instalação dos node_modules:
+```
+npm install
+```
+3. Instale o react-routes-dom :
+```
+npm i react-router-dom
+```
+4. Instale o styled-components:
+```
+npm i styled-components@4.1.3
+```
+5. Inicie com npm start:
+```
+npm start
+```
+A aplicação deve rodar no
+```
+http://localhost:3000/
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Voltar ao Topo](#ancora)
