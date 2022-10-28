@@ -36,7 +36,7 @@ const Signup = () => {
     }
 
     alert("Usuário cadastrado com sucesso!");
-    navigate("/home");
+    navigate("/");
   };
 
   return (
