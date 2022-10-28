@@ -47,7 +47,7 @@ A rede social Parrot é um sistema white label (ou seja, um sistema modelo criad
 
 * React;
 * Boostrap;
-* TypeScript;
+* Javascript;
 * NodeJS;
 * MySQL;
 * Arquitetura Limpa;
@@ -84,19 +84,19 @@ git clone https://github.com/OrcFofa/Login_Parrot.git
 ```
 npm install
 ```
-3. Instale o react-routes-dom :
+4. Instale o react-routes-dom :
 ```
 npm i react-router-dom
 ```
-4. Instale o styled-components:
+5. Instale o styled-components:
 ```
 npm i styled-components@4.1.3
 ```
-5. Inicie com npm start:
+6. Inicie com npm start:
 ```
 npm start
 ```
-A aplicação deve rodar no
+A aplicação deve rodar na porta:
 ```
 http://localhost:3000/
 ```
